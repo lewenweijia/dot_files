@@ -1,0 +1,11 @@
+[user]
+	name = lewenweijia
+	email = lewenweijia@gmail.com
+	editor = emacs
+[github]
+	username = lewenweijia
+	user = lewenweijia
+[http]
+	proxy = socks5://127.0.0.1:1080
+[https]
+	proxy = socks5://127.0.0.1:1080
